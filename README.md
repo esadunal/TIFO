@@ -7,3 +7,6 @@
 
 - [PyBoy](https://github.com/Baekalfen/PyBoy):
 	> Game Boy emulator written in Python
+
+- [AutoScraper](https://github.com/alirezamika/autoscraper):
+	> A Smart, Automatic, Fast and Lightweight Web Scraper for Python
